@@ -1,8 +1,6 @@
----
 layout: page
 title: "Link Library"
 permalink: /linklibrary/
----
 
 == Take control of your links and display them any way you want on your site
 
