@@ -8,7 +8,7 @@
 
 		<link rel="profile" href="https://gmpg.org/xfn/11">
 
-		<title>Development Site &#8211; Just another WordPress site</title>
+		<title>Links &#8211; Development Site</title>
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Development Site &raquo; Feed" href="/feed/">
 <link rel="alternate" type="application/rss+xml" title="Development Site &raquo; Comments Feed" href="/comments/feed/">
@@ -261,9 +261,14 @@ var thumbs_rating_ajax = {"ajax_url":"http:\/\/one.wordpress.test\/wp-admin\/adm
 <script src="/wp-content/plugins/link-library/upvote-downvote/js/general.js?ver=4.0.1" id="thumbs_rating_scripts-js"></script>
 <script src="/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.6" id="twentytwenty-js-js" async></script>
 <link rel="https://api.w.org/" href="/wp-json/">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/20">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 5.6.1">
+<link rel="canonical" href="/links/">
+<link rel="shortlink" href="/?p=20">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2Flinks%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2Flinks%2F&#038;format=xml">
 <style id="BugLibraryStyle" type="text/css">#bug-library-list { font-family: "Arial"; font-size: 12px; width: 600px}
 
 #bug-library-item-table { width: 600px; clear: both; }
@@ -390,6 +395,279 @@ var thumbs_rating_ajax = {"ajax_url":"http:\/\/one.wordpress.test\/wp-admin\/adm
 #bug-library-submissionaccepted { background-color: #FFFFFF; width: 500px; height: 500px; padding: 16px; font-family: "Arial"; font-size: 12px; }
 
 #bug-library-data-id, #bug-library-data-status, #bug-library-data-version, #bug-library-data-report-date, #bug-library-data-product { padding-right: 8px; }</style>
+<style id="LinkLibraryStyle" type="text/css">.linktable {margin-top: 15px;}
+
+.linktable a {text-decoration:none}
+
+.linktable td { vertical-align: top; }
+
+a.featured {
+    font-weight: bold;
+}
+
+table.linklisttable {
+	width:100%;
+	border-width: 0px 0px 0px 0px;
+	border-spacing: 5px;
+	/* border-style: outset outset outset outset;
+	border-color: gray gray gray gray; */
+	border-collapse: separate;
+}
+table.linklisttable th {
+	border-width: 1px 1px 1px 1px;
+	padding: 3px 3px 3px 3px;
+	background-color: #f4f5f3;
+	/* border-style: none none none none;
+	border-color: gray gray gray gray;
+	-moz-border-radius: 3px 3px 3px 3px; */
+}
+table.linklisttable td {
+	border-width: 1px 1px 1px 1px;
+	padding: 3px 3px 3px 3px;
+	background-color: #dee1d8;
+	/* border-style: dotted dotted dotted dotted;
+	border-color: gray gray gray gray;
+	-moz-border-radius: 3px 3px 3px 3px; */
+}
+
+.linklistcatname{
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+	border: 0;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.linklistcatnamedesc{
+	font-family: arial;
+	font-size: 12px;
+	font-weight: normal;
+	border: 0;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+
+.linklistcolumnheader{
+	font-weight: bold;
+}
+
+div.rsscontent{color: #333333; font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;font-size: 11px;line-height: 1.25em;
+vertical-align: baseline;letter-spacing: normal;word-spacing: normal;font-weight: normal;font-style: normal;font-variant: normal;text-transform: none;
+text-decoration: none;text-align: left;text-indent: 0px;max-width:500px;}
+
+#ll_rss_results { border-style:solid;border-width:1px;margin-left:10px;margin-top:10px;padding-top:3px;background-color:#f4f5f3;}
+.rsstitle{font-weight:400;font-size:0.8em;color:#33352C;font-family:Georgia,"Times New Roman",Times,serif;}
+.rsstitle a{color:#33352C}
+
+#ll_rss_results img {
+    max-width: 400px; /* Adjust this value according to your content area size*/
+    height: auto;
+}
+
+.rsselements {float: right;}
+
+.highlight_word {background-color: #FFFF00}
+
+.previouspage {float:left;margin-top:10px;font-weight:bold}
+
+.nextpage {float: right;margin-top:10px;font-weight:bold}
+
+.resulttitle {padding-top:10px;}
+
+.catdropdown { width: 300px; }
+
+#llsearch {padding-top:10px;}
+
+.lladdlink {
+	margin-top: 16px;
+}
+
+.lladdlink #lladdlinktitle {
+	font-weight: bold;
+}
+
+.lladdlink table {
+	margin-top: 5px;
+	margin-bottom: 8px;
+	border: 0;
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+.lladdlink table td {
+	border: 0;
+	height: 30px;
+}
+
+.lladdlink table th {
+	border: 0;
+	text-align: left;
+	font-weight: normal;
+	width: 400px;
+}
+
+.lladdlink input[type="text"] {
+	width: 300px;
+}
+
+.lladdlink select {
+	width: 300px;
+}
+
+.llmessage {
+	margin: 8px;
+	border: 1px solid #ddd;
+	background-color: #ff0;
+}
+
+.pageselector {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.selectedpage {
+	margin: 0px 4px 0px 4px;
+	border: 1px solid #000;
+	padding: 7px;
+	background-color: #f4f5f3;
+}
+
+.unselectedpage {
+	margin: 0px 4px 0px 4px;
+	border: 1px solid #000;
+	padding: 7px;
+	background-color: #dee1d8;
+}
+
+.previousnextactive {
+	margin: 0px 4px 0px 4px;
+	border: 1px solid #000;
+	padding: 7px;
+	background-color: #dee1d8;
+}
+
+.previousnextinactive {
+	margin: 0px 4px 0px 4px;
+	border: 1px solid #000;
+	padding: 7px;
+	background-color: #dddddd;
+	color: #cccccc;
+}
+
+.LinksInCat {
+    display:none;
+}
+
+.SubCategories {
+  display:none;
+}
+
+.allcatalphafilterlinkedletter, .catalphafilterlinkedletter, .catalphafilteremptyletter, .catalphafilterselectedletter, .allcatalphafilterselectedletter {
+	width: 16px;
+	height: 30px;
+	float:left;
+	margin-right: 6px;
+	text-align: center;
+}
+
+.allcatalphafilterlinkedletter, .allcatalphafilterselectedletter {
+	width: 40px;
+}
+
+.catalphafilterlinkedletter {
+	background-color: #aaa;
+	color: #444;
+}
+
+.catalphafilteremptyletter {
+	background-color: #ddd;
+	color: #fff;
+}
+
+.catalphafilterselectedletter {
+	background-color: #558C89;
+	color: #fff;
+}
+
+.catalphafilter {
+	padding-bottom: 30px;
+}
+
+.recently_updated {
+	padding: 8px;
+	margin: 14px;
+	color: #FFF;
+	background-color: #F00;
+}
+
+.emptycat {
+	color: #ccc;
+}
+
+.level1 {
+	margin-left: 20px;
+}
+
+.level2 {
+	margin-left: 40px;
+}
+
+.level3 {
+	margin-left: 60px;
+}
+
+.level4 {
+	margin-left: 80px;
+}
+
+.level5 {
+	margin-left: 100px;
+}
+
+.level6 {
+	margin-left: 120px;
+}
+
+.nolinksfoundincat {
+  display:none;
+}
+
+@media only screen and (max-width: 600px) {
+  .lladdlink table td {
+    height: 60px;
+    display: block;
+  }
+
+  .lladdlink table {
+    margin-bottom: 20px
+  }
+
+  .lladdlink table th {
+    display: block;
+  }
+}
+
+.LinkLibraryCat {
+	clear: both;
+  width: 100%;         
+  border-spacing: 5px;
+}
+
+.tablerow {
+  width: auto;
+  clear: both;
+}
+
+.tablecell {
+  float: left;
+  max-width: 400px; 
+	height: 300px;
+	padding:20px;
+	margin: 5px;
+	border: 2px solid #000;
+}</style>
 	<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
 	<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style id="wp-custom-css">.entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
 	max-width: 80%;
@@ -397,7 +675,7 @@ var thumbs_rating_ajax = {"ajax_url":"http:\/\/one.wordpress.test\/wp-admin\/adm
 		
 	</head>
 
-	<body class="home blog wp-embed-responsive enable-search-modal has-no-pagination showing-comments show-avatars footer-top-visible">
+	<body class="page-template-default page page-id-20 wp-embed-responsive singular enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments show-avatars footer-top-visible">
 
 		<a class="skip-link screen-reader-text" href="#site-content">Skip to the content</a>
 		<header id="site-header" class="header-footer-group" role="banner">
@@ -418,7 +696,7 @@ var thumbs_rating_ajax = {"ajax_url":"http:\/\/one.wordpress.test\/wp-admin\/adm
 					
 					<div class="header-titles">
 
-						<h1 class="site-title"><a href="/">Development Site</a></h1>
+						<div class="site-title faux-heading"><a href="/">Development Site</a></div>
 <div class="site-description">Just another WordPress site</div>
 <!-- .site-description -->
 					</div>
@@ -442,7 +720,7 @@ var thumbs_rating_ajax = {"ajax_url":"http:\/\/one.wordpress.test\/wp-admin\/adm
 
 								<ul class="primary-menu reset-list-style">
 
-								<li class="page_item page-item-20"><a href="/links/">Links</a></li>
+								<li class="page_item page-item-20 current_page_item current-menu-item"><a href="/links/" aria-current="page">Links</a></li>
 <li class="page_item page-item-2"><a href="/sample-page/">Sample Page</a></li>
 
 								</ul>
@@ -520,8 +798,8 @@ var thumbs_rating_ajax = {"ajax_url":"http:\/\/one.wordpress.test\/wp-admin\/adm
 
 						<ul class="modal-menu reset-list-style">
 
-						<li class="page_item page-item-20">
-<div class="ancestor-wrapper"><a href="/links/">Links</a></div>
+						<li class="page_item page-item-20 current_page_item current-menu-item">
+<div class="ancestor-wrapper"><a href="/links/" aria-current="page">Links</a></div>
 <!-- .ancestor-wrapper -->
 </li>
 <li class="page_item page-item-2">
@@ -555,56 +833,14 @@ var thumbs_rating_ajax = {"ajax_url":"http:\/\/one.wordpress.test\/wp-admin\/adm
 <main id="site-content" role="main">
 
 	
-<article class="post-1 post type-post status-publish format-standard hentry category-uncategorized" id="post-1">
+<article class="post-20 page type-page status-publish hentry" id="post-20">
 
 	
-<header class="entry-header has-text-align-center">
+<header class="entry-header has-text-align-center header-footer-group">
 
 	<div class="entry-header-inner section-inner medium">
 
-		
-			<div class="entry-categories">
-				<span class="screen-reader-text">Categories</span>
-				<div class="entry-categories-inner">
-					<a href="/category/uncategorized/" rel="category tag">Uncategorized</a>				</div>
-<!-- .entry-categories-inner -->
-			</div>
-<!-- .entry-categories -->
-
-			<h2 class="entry-title heading-size-1"><a href="/2021/02/18/hello-world/">Hello world!</a></h2>
-		<div class="post-meta-wrapper post-meta-single post-meta-single-top">
-
-			<ul class="post-meta">
-
-									<li class="post-author meta-wrapper">
-						<span class="meta-icon">
-							<span class="screen-reader-text">Post author</span>
-							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewbox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z"></path></svg>						</span>
-						<span class="meta-text">
-							By <a href="/author/admin/">admin</a>						</span>
-					</li>
-										<li class="post-date meta-wrapper">
-						<span class="meta-icon">
-							<span class="screen-reader-text">Post date</span>
-							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewbox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z"></path></svg>						</span>
-						<span class="meta-text">
-							<a href="/2021/02/18/hello-world/">February 18, 2021</a>
-						</span>
-					</li>
-										<li class="post-comment-link meta-wrapper">
-						<span class="meta-icon">
-							<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewbox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z"></path></svg>						</span>
-						<span class="meta-text">
-							<a href="/2021/02/18/hello-world/#comments">1 Comment<span class="screen-reader-text"> on Hello world!</span></a>						</span>
-					</li>
-					
-			</ul>
-<!-- .post-meta -->
-
-		</div>
-<!-- .post-meta-wrapper -->
-
-		
+		<h1 class="entry-title">Links</h1>
 	</div>
 <!-- .entry-header-inner -->
 
@@ -615,7 +851,111 @@ var thumbs_rating_ajax = {"ajax_url":"http:\/\/one.wordpress.test\/wp-admin\/adm
 		<div class="entry-content">
 
 			
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- Link Library Categories Output -->
+
+<div id="linktable" class="linktable">
+<table width="100%">
+<tr>
+	<td><a href="#another"><span class="linkcatname">Another</span></a></td>
+</tr>
+<tr>
+	<td><a href="#call-signs"><span class="linkcatname">Call Signs</span></a></td>
+</tr>
+<tr>
+	<td><a href="#second"><span class="linkcatname">Second</span></a></td>
+</tr>
+</table>
+</div>
+
+<!-- End of Link Library Categories Output -->
+
+
+
+
+
+<!-- Link Library Categories Output -->
+
+<script type="text/javascript">
+if(typeof showLinkCat1 !== 'function'){
+window.showLinkCat1 = function ( _incomingID, _settingsID, _pagenumber, _searchll ) {
+	jQuery('#contentLoading1').toggle();jQuery.ajax( {    type: 'POST',     url: 'http://one.wordpress.test/wp-admin/admin-ajax.php',     data: { action: 'link_library_ajax_update',             _ajax_nonce: '9eae79babc',             id : _incomingID,             settings : _settingsID,             ajaxupdate : true,             searchll : _searchll,             linkresultpage: _pagenumber },     success: function( data ){             jQuery('#linklist' + _settingsID ).html( data );             jQuery('#contentLoading1').toggle();
+            } } ); }
+}
+</script>
+
+<div id="linktable" class="linktable"><form name="catselect">
+<select onchange='showcategory( jQuery(".catdropdown1").val() )' name="catdropdown1" class="catdropdown catdropdown1" data-linklist-id="1">	<option value="11">Another</option>
+	<option value="9">Call Signs</option>
+	<option value="10">Second</option>
+</select>
+</form></div>
+<div class="contentLoading" id="contentLoading1" style="display: none;"><img src="/wp-content/plugins/link-library/icons/Ajax-loader.gif" alt="Loading data, please wait..."></div>
+<script type="text/javascript">
+	function showcategory( catidvar ){
+linklistID = event.target.dataset.linklistId;
+showLinkCat1(catidvar, linklistID, 1, '');return false; }</script>
+
+<!-- End of Link Library Categories Output -->
+
+
+
+
+
+
+<!-- Beginning of Link Library Output -->
+
+<div id="linklist1" class="linklist">
+<!-- Div Linklist -->
+<div class="LinkLibraryCat LinkLibraryCat10 level0">
+<!-- Div Category --><div id="second">
+<!-- Div Category Name --><div class="linklistcatname">
+<!-- Div Cat Name --><span class="linklistcatclass">Second</span>
+</div>
+<!-- DivOrHeader -->
+</div>
+<!-- Div Category Name --><div class="tablecell">
+<a href="https://mytest.com/" id="link-45" class="track_this_link " rel="noopener noreferrer" target="_blank">Testing</a>
+</div>
+<a href="/links/another">Another</a> , <a href="/links/second">Second</a><br>
+</div>
+<!-- Div End Category -->
+<script type="text/javascript">
+jQuery(document).ready(function()
+{
+jQuery('.arrow-up').hide();
+jQuery('#linklist1 a.track_this_link').click(function() {
+linkid = this.id;
+linkid = linkid.substring(5);
+path = '';
+jQuery.ajax( {    type: 'POST',    url: 'http://one.wordpress.test/wp-admin/admin-ajax.php',     data: { action: 'link_library_tracker',             _ajax_nonce: 'c4748dec98',             id:linkid, xpath:path }     });
+return true;
+});
+jQuery('#linklist1 .expandlinks').click(function() {
+target = '.' + jQuery(this).attr('id');
+subcattarget = '.' + jQuery(this).attr('data-subcat');
+if ( jQuery( target ).is(':visible') ) {
+jQuery(target).slideUp();
+jQuery(subcattarget).slideToggle();
+jQuery(this).children('img').attr('src', 'http://one.wordpress.test/wp-content/plugins/link-library/icons/expand-32.png');
+} else {
+jQuery(target).slideDown();
+jQuery(subcattarget).slideToggle();
+jQuery(this).children('img').attr('src', 'http://one.wordpress.test/wp-content/plugins/link-library/icons/collapse-32.png');
+}
+});
+jQuery('#linklist1 .linklistcatclass').click(function() {
+jQuery(this).siblings('.expandlinks').click();
+});
+jQuery('#linklist1 .linklistcatnamedesc').click(function() {
+jQuery(this).siblings('.expandlinks').click();
+});
+});
+</script>
+</div>
+<!-- Div Linklist -->
+<!-- End of Link Library Output -->
+
+
 
 		</div>
 <!-- .entry-content -->
@@ -631,7 +971,6 @@ var thumbs_rating_ajax = {"ajax_url":"http:\/\/one.wordpress.test\/wp-admin\/adm
 	
 </article><!-- .post -->
 
-	
 </main><!-- #site-content -->
 
 
