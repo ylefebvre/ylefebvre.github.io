@@ -1,0 +1,128 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Community Events</title>
+	<atom:link href="/wordpress-plugins/community-events/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
+	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: Jerry</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23293</link>
+		<dc:creator><![CDATA[Jerry]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 18:20:53 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23293</guid>
+		<description><![CDATA[If you can do that then I believe we will be able to use this plugin.]]></description>
+		<content:encoded><![CDATA[<p>If you can do that then I believe we will be able to use this plugin.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23290</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 17:02:17 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23290</guid>
+		<description><![CDATA[Not at the moment, but I should be able to add that functionality in the next few days.]]></description>
+		<content:encoded><![CDATA[<p>Not at the moment, but I should be able to add that functionality in the next few days.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jerry</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23289</link>
+		<dc:creator><![CDATA[Jerry]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 16:56:19 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23289</guid>
+		<description><![CDATA[Is there a way to show daily events in order of time instead of alphabetically?]]></description>
+		<content:encoded><![CDATA[<p>Is there a way to show daily events in order of time instead of alphabetically?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23282</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 12:40:03 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23282</guid>
+		<description><![CDATA[I see. I missed that. You will need to make some changes to the stylesheet as some of the default colors don&#039;t work well with your site colors.
+
+To change the black background of the odd lines, go to the Stylesheet section under Community Events, look for .community-events-odd and change the background-color property to something other than #000000, which is the color black. I assume you are familiar with web hex colors? Once changes, save the stylesheet and you should see the change.
+
+Let me know if you need any more guidance changing colors. Some of the properties, like text shadows, are coming in from your site theme, but can be overridden if you so desire.
+
+If you enjoy Community Events, please consider supporting its development.]]></description>
+		<content:encoded><![CDATA[<p>I see. I missed that. You will need to make some changes to the stylesheet as some of the default colors don&#8217;t work well with your site colors.</p>
+<p>To change the black background of the odd lines, go to the Stylesheet section under Community Events, look for .community-events-odd and change the background-color property to something other than #000000, which is the color black. I assume you are familiar with web hex colors? Once changes, save the stylesheet and you should see the change.</p>
+<p>Let me know if you need any more guidance changing colors. Some of the properties, like text shadows, are coming in from your site theme, but can be overridden if you so desire.</p>
+<p>If you enjoy Community Events, please consider supporting its development.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jerry</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23281</link>
+		<dc:creator><![CDATA[Jerry]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 12:31:45 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23281</guid>
+		<description><![CDATA[The thank you was for your quick response to my situation.]]></description>
+		<content:encoded><![CDATA[<p>The thank you was for your quick response to my situation.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jerry</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23280</link>
+		<dc:creator><![CDATA[Jerry]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 12:30:24 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23280</guid>
+		<description><![CDATA[I have it listed under the news catergory and the page is testing. I hope this helps.]]></description>
+		<content:encoded><![CDATA[<p>I have it listed under the news catergory and the page is testing. I hope this helps.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23279</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 12:29:25 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23279</guid>
+		<description><![CDATA[Hi Jerry. Why just the thank you. Did you figure it out based on my suggestion that it might be a stylesheet conflict? I looked at the URL of the site you entered in your comment and cannot find the Community Events calendar. Is it on a hidden page?]]></description>
+		<content:encoded><![CDATA[<p>Hi Jerry. Why just the thank you. Did you figure it out based on my suggestion that it might be a stylesheet conflict? I looked at the URL of the site you entered in your comment and cannot find the Community Events calendar. Is it on a hidden page?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jerry</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23278</link>
+		<dc:creator><![CDATA[Jerry]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 12:25:14 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23278</guid>
+		<description><![CDATA[thank you]]></description>
+		<content:encoded><![CDATA[<p>thank you</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23276</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 12:22:13 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23276</guid>
+		<description><![CDATA[Hi Jerry, can you give me the address of the page where you are trying to set this up? It may be that some of the styles defined in your site stylesheet are conflicting with the ones defined in Community Events.]]></description>
+		<content:encoded><![CDATA[<p>Hi Jerry, can you give me the address of the page where you are trying to set this up? It may be that some of the styles defined in your site stylesheet are conflicting with the ones defined in Community Events.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jerry</title>
+		<link>/wordpress-plugins/community-events/comment-page-1/#comment-23275</link>
+		<dc:creator><![CDATA[Jerry]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 12:12:18 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-23275</guid>
+		<description><![CDATA[I downloaded Community Events last night to see if it is what I am looking for the site I manage. The problem I am having is every other day shows in black and events can&#039;t be seen. Is there a way to fix this?]]></description>
+		<content:encoded><![CDATA[<p>I downloaded Community Events last night to see if it is what I am looking for the site I manage. The problem I am having is every other day shows in black and events can&#8217;t be seen. Is there a way to fix this?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

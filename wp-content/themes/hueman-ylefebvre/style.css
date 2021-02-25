@@ -1,0 +1,30 @@
+/*
+ Theme Name:   Hueman Child Theme ylefebvre.ca
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       Yannick Lefebvre
+ Author URI:   http://example.com
+ Template:     hueman
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+#gallery-1 img {
+  max-height: 227px;
+  width: auto;
+  display: block;
+  margin: auto;
+}
+
+#gallery-1 .gallery-item {
+  padding-top: 10px;
+}
+
+#mc_embed_signup .clear {
+	display: block;
+	overflow: visible;
+	visibility: visible;
+}

@@ -1,0 +1,140 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Link Library</title>
+	<atom:link href="/wordpress-plugins/link-library/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
+	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-42906</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2014 16:44:41 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-42906</guid>
+		<description><![CDATA[Hi Kristin, I just wanted to mention that the Colorbox pop-up dialog, which I added to Modal Dialog earlier this year, does trap keyboard events correctly. Go to the General Settings for Modal Dialog and select Colorbox and you will see the behaviour you were seeking.]]></description>
+		<content:encoded><![CDATA[<p>Hi Kristin, I just wanted to mention that the Colorbox pop-up dialog, which I added to Modal Dialog earlier this year, does trap keyboard events correctly. Go to the General Settings for Modal Dialog and select Colorbox and you will see the behaviour you were seeking.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: David</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-30050</link>
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Sun, 13 Jul 2014 18:29:59 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-30050</guid>
+		<description><![CDATA[thanks Yannick. I guess it was the parameters that were confusing me.
+
+ I knew most of the layout was set up through the library settings but it wasn&#039;t clear that the info in the FAQ like - &quot;[link-library rssoverride=0] 
+Set to 0 or 1 to display or not display rss information&quot; was a full list of options.
+
+Thanks for the assist.
+DAvid]]></description>
+		<content:encoded><![CDATA[<p>thanks Yannick. I guess it was the parameters that were confusing me.</p>
+<p> I knew most of the layout was set up through the library settings but it wasn&#8217;t clear that the info in the FAQ like &#8211; &#8220;[link-library rssoverride=0]<br />
+Set to 0 or 1 to display or not display rss information&#8221; was a full list of options.</p>
+<p>Thanks for the assist.<br />
+DAvid</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-30007</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Sun, 13 Jul 2014 01:39:10 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-30007</guid>
+		<description><![CDATA[All shortcodes for Link Library are displayed at the top of the Library Settings page. There are a few optional parameters for these shortcodes, and these are shown on the FAQ (&lt;a href=&quot;http://wordpress.org/plugins/link-library/faq/&quot; title=&quot;Link Library FAQ&quot; rel=&quot;nofollow&quot;&gt;FAQ&lt;/a&gt;)]]></description>
+		<content:encoded><![CDATA[<p>All shortcodes for Link Library are displayed at the top of the Library Settings page. There are a few optional parameters for these shortcodes, and these are shown on the FAQ (<a href="http://wordpress.org/plugins/link-library/faq/" title="Link Library FAQ" rel="nofollow">FAQ</a>)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: David</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-29967</link>
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2014 14:27:48 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-29967</guid>
+		<description><![CDATA[Okay, I&#039;m sure I&#039;m asking the most obvious question, but ... where do I find a list of all shortcodes for Link Library? 
+
+Thanks in advance
+DAvid]]></description>
+		<content:encoded><![CDATA[<p>Okay, I&#8217;m sure I&#8217;m asking the most obvious question, but &#8230; where do I find a list of all shortcodes for Link Library? </p>
+<p>Thanks in advance<br />
+DAvid</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: pressingon</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-26336</link>
+		<dc:creator><![CDATA[pressingon]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2014 07:54:33 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-26336</guid>
+		<description><![CDATA[Thank you so much for creating this awesome plugin. It&#039;s doing exactly what I need it to except for one thing; the pagination is not working. When i click on second page the url changes, but the links stay the same. Can you tell me what I&#039;m doing wrong please, or how to fix it?]]></description>
+		<content:encoded><![CDATA[<p>Thank you so much for creating this awesome plugin. It&#8217;s doing exactly what I need it to except for one thing; the pagination is not working. When i click on second page the url changes, but the links stay the same. Can you tell me what I&#8217;m doing wrong please, or how to fix it?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jim</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-26314</link>
+		<dc:creator><![CDATA[Jim]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2014 01:20:56 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-26314</guid>
+		<description><![CDATA[Sorry I&#039;ll try to be clearer. Say I have ten links with id#40 of which five are id#40 and also id#5 and five id#40 and also id#32. I then set up a page that shows all the links with id#40. It lists all ten links in one list. I&#039;d like to show the ten links grouped by the secondary id. So the 40&#038;5 links and then the 40&#038;32 links. Hopefully with headers identifying the grouping.
+
+Thanks]]></description>
+		<content:encoded><![CDATA[<p>Sorry I&#8217;ll try to be clearer. Say I have ten links with id#40 of which five are id#40 and also id#5 and five id#40 and also id#32. I then set up a page that shows all the links with id#40. It lists all ten links in one list. I&#8217;d like to show the ten links grouped by the secondary id. So the 40&amp;5 links and then the 40&amp;32 links. Hopefully with headers identifying the grouping.</p>
+<p>Thanks</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-26311</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2014 00:33:06 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-26311</guid>
+		<description><![CDATA[I am not quite sure I understand your question. Links are sorted within each category. Link Library does not consider tags.]]></description>
+		<content:encoded><![CDATA[<p>I am not quite sure I understand your question. Links are sorted within each category. Link Library does not consider tags.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jim McCarthy</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-26297</link>
+		<dc:creator><![CDATA[Jim McCarthy]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2014 21:01:24 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-26297</guid>
+		<description><![CDATA[Is it possible to sort Links by Category or Tag?
+
+Thanks]]></description>
+		<content:encoded><![CDATA[<p>Is it possible to sort Links by Category or Tag?</p>
+<p>Thanks</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Kristin</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-23570</link>
+		<dc:creator><![CDATA[Kristin]]></dc:creator>
+		<pubDate>Mon, 05 May 2014 22:50:50 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-23570</guid>
+		<description><![CDATA[No - I&#039;m not displaying a form. Just text and a link to the website, as in your default options.]]></description>
+		<content:encoded><![CDATA[<p>No &#8211; I&#8217;m not displaying a form. Just text and a link to the website, as in your default options.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/link-library/comment-page-17/#comment-23253</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 01:27:17 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=779#comment-23253</guid>
+		<description><![CDATA[Thanks for the link. I will see about using the basic jQuery dialog as an option in Link Library in the coming week and see if that properly captures keyboard inputs. To make an example that reflects what you are doing, can you tell me a bit about what you are displaying in your Link Library popup? Are you displaying a form related to the link that was clicked?]]></description>
+		<content:encoded><![CDATA[<p>Thanks for the link. I will see about using the basic jQuery dialog as an option in Link Library in the coming week and see if that properly captures keyboard inputs. To make an example that reflects what you are doing, can you tell me a bit about what you are displaying in your Link Library popup? Are you displaying a form related to the link that was clicked?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

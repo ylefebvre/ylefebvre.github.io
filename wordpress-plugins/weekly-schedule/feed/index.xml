@@ -1,0 +1,147 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Weekly Schedule</title>
+	<atom:link href="/wordpress-plugins/weekly-schedule/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
+	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-17290</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Sat, 08 Feb 2014 16:28:48 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-17290</guid>
+		<description><![CDATA[Hi Gykfen, you can just take a look at the page&#039;s sourcecode to see the stylesheet data that the person entered on their web site. Just look for WeeklyScheduleStyle in the page source code.]]></description>
+		<content:encoded><![CDATA[<p>Hi Gykfen, you can just take a look at the page&#8217;s sourcecode to see the stylesheet data that the person entered on their web site. Just look for WeeklyScheduleStyle in the page source code.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-17288</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Sat, 08 Feb 2014 16:26:35 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-17288</guid>
+		<description><![CDATA[Hi Hubert. No, this is not possible with the weekly schedule plugin. You would have to create two entries, an hour long entry on the first day and a 5-hour long entry on the other day.]]></description>
+		<content:encoded><![CDATA[<p>Hi Hubert. No, this is not possible with the weekly schedule plugin. You would have to create two entries, an hour long entry on the first day and a 5-hour long entry on the other day.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Gykfen Kasemi</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-17107</link>
+		<dc:creator><![CDATA[Gykfen Kasemi]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2014 18:35:58 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-17107</guid>
+		<description><![CDATA[the schedule is here:
+http://www.doku-kino.com/programi-javor/]]></description>
+		<content:encoded><![CDATA[<p>the schedule is here:<br />
+<a href="http://www.doku-kino.com/programi-javor/" rel="nofollow">http://www.doku-kino.com/programi-javor/</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Gykfen Kasemi</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-17105</link>
+		<dc:creator><![CDATA[Gykfen Kasemi]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2014 17:05:23 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-17105</guid>
+		<description><![CDATA[Hi marko,
+
+Can you please tell me how you did to have days on topheader , I like very much your sylesheet (http://studioforte.vendi.si/urnik/) , can you please help to have the same style schedule 
+
+Thanks]]></description>
+		<content:encoded><![CDATA[<p>Hi marko,</p>
+<p>Can you please tell me how you did to have days on topheader , I like very much your sylesheet (<a href="http://studioforte.vendi.si/urnik/" rel="nofollow">http://studioforte.vendi.si/urnik/</a>) , can you please help to have the same style schedule </p>
+<p>Thanks</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Hubert</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-17069</link>
+		<dc:creator><![CDATA[Hubert]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2014 21:54:47 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-17069</guid>
+		<description><![CDATA[Hi, is there any chance to put schedule between 23:00 - 05:00 am? I understand that 24:00 is of course a new day, but maybe there is a way to &quot;fix it&quot;?]]></description>
+		<content:encoded><![CDATA[<p>Hi, is there any chance to put schedule between 23:00 &#8211; 05:00 am? I understand that 24:00 is of course a new day, but maybe there is a way to &#8220;fix it&#8221;?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-13526</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2013 19:51:11 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-13526</guid>
+		<description><![CDATA[Hi Taylor, Sorry about that. I had just never re-worked the styling on that page after moving my site to a Multisite WordPress install. Everything looks ok now.]]></description>
+		<content:encoded><![CDATA[<p>Hi Taylor, Sorry about that. I had just never re-worked the styling on that page after moving my site to a Multisite WordPress install. Everything looks ok now.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Taylor V. Smith</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-13060</link>
+		<dc:creator><![CDATA[Taylor V. Smith]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2013 14:08:54 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-13060</guid>
+		<description><![CDATA[Greetings! I visited your TV Schedule (/2009-2010-tv-schedule/), because I love the example image in the plugin &quot;Screenshot&quot; tab. However, it appears that the stylesheet has changed or is no longer working. Did a WordPress update change something?]]></description>
+		<content:encoded><![CDATA[<p>Greetings! I visited your TV Schedule (<a href="/2009-2010-tv-schedule/" rel="nofollow">/2009-2010-tv-schedule/</a>), because I love the example image in the plugin &#8220;Screenshot&#8221; tab. However, it appears that the stylesheet has changed or is no longer working. Did a WordPress update change something?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Marko Strbac</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-11782</link>
+		<dc:creator><![CDATA[Marko Strbac]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2013 22:12:28 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-11782</guid>
+		<description><![CDATA[I did that and now is OK :) Tnx]]></description>
+		<content:encoded><![CDATA[<p>I did that and now is OK 🙂 Tnx</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ylefebvre</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-11778</link>
+		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2013 21:54:29 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-11778</guid>
+		<description><![CDATA[Can you check that you have content under the stylesheet editor under the Weekly Schedule menu in the admin. If it&#039;s empty, press the reset button. It looks like all of the Weekly Schedule styling is missing from the site.]]></description>
+		<content:encoded><![CDATA[<p>Can you check that you have content under the stylesheet editor under the Weekly Schedule menu in the admin. If it&#8217;s empty, press the reset button. It looks like all of the Weekly Schedule styling is missing from the site.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Marko Strbac</title>
+		<link>/wordpress-plugins/weekly-schedule/comment-page-5/#comment-11312</link>
+		<dc:creator><![CDATA[Marko Strbac]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2013 11:59:24 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=787#comment-11312</guid>
+		<description><![CDATA[Hi Yannick,
+Love your plugin, but I can´t manage to make vertical alignment to work.
+I added: 
+.ws-schedule table.verticalheader {
+float: left;
+width: 100px;
+}
+
+But it doesn´t fix my issue here:
+http://studioforte.vendi.si/urnik/
+
+thanks!]]></description>
+		<content:encoded><![CDATA[<p>Hi Yannick,<br />
+Love your plugin, but I can´t manage to make vertical alignment to work.<br />
+I added:<br />
+.ws-schedule table.verticalheader {<br />
+float: left;<br />
+width: 100px;<br />
+}</p>
+<p>But it doesn´t fix my issue here:<br />
+<a href="http://studioforte.vendi.si/urnik/" rel="nofollow">http://studioforte.vendi.si/urnik/</a></p>
+<p>thanks!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

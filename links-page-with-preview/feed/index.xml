@@ -1,0 +1,217 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Links Page with Preview</title>
+	<atom:link href="/links-page-with-preview/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
+	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: Mark Schafer</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-90</link>
+		<dc:creator><![CDATA[Mark Schafer]]></dc:creator>
+		<pubDate>Wed, 10 Mar 2010 11:27:56 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-90</guid>
+		<description><![CDATA[The issue is fixed. I did not include the RSS address in the new links I added. Once added, all worked as expected. Thanks. ]]></description>
+		<content:encoded><![CDATA[<p>The issue is fixed. I did not include the RSS address in the new links I added. Once added, all worked as expected. Thanks. </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mark Schafer</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-89</link>
+		<dc:creator><![CDATA[Mark Schafer]]></dc:creator>
+		<pubDate>Wed, 10 Mar 2010 11:21:44 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-89</guid>
+		<description><![CDATA[Sorry if I missed this issue being discussed but I&#039;m stumped. I just installed your great plugin. And configured it to produce the &#039;links page with preview&#039;. It worked fine on default links wordpress.org and wordpress.com. I then deleted those links and added my own. The preview no longer worked. All that appears is the link to the sites.
+ 
+See: &lt;a href=&quot;http://radford.ttacconnect.org&quot;/ rel=&quot;nofollow&quot;&gt;http://radford.ttacconnect.org&lt;/a&gt;  
+
+ 
+I have a wpmu setup so I activated the plugin on another site and successfully got the preview to work with the default Wordpress links. I then added another link and it resulted in only the site link appearing (no preview). I even added another Wordpress.org link. While the original Wordpress link continues to show a preview, this new link does not. Any thoughts you have would be appreciated. Thanks!
+ 
+See: &lt;a href=&quot;http://feedwordpress.org/ttacconnect.org/about/&quot; rel=&quot;nofollow&quot;&gt;http://feedwordpress.org/ttacconnect.org/about/&lt;/a&gt; ]]></description>
+		<content:encoded><![CDATA[<p>Sorry if I missed this issue being discussed but I&#039;m stumped. I just installed your great plugin. And configured it to produce the &#039;links page with preview&#039;. It worked fine on default links wordpress.org and wordpress.com. I then deleted those links and added my own. The preview no longer worked. All that appears is the link to the sites.</p>
+<p>See: <a href="http://radford.ttacconnect.org/" rel="nofollow">http://radford.ttacconnect.org/</a>  </p>
+<p>I have a wpmu setup so I activated the plugin on another site and successfully got the preview to work with the default WordPress links. I then added another link and it resulted in only the site link appearing (no preview). I even added another WordPress.org link. While the original WordPress link continues to show a preview, this new link does not. Any thoughts you have would be appreciated. Thanks!</p>
+<p>See: <a href="http://feedwordpress.org/ttacconnect.org/about/" rel="nofollow">http://feedwordpress.org/ttacconnect.org/about/</a> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Yannick Lefebvre</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-88</link>
+		<dc:creator><![CDATA[Yannick Lefebvre]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 20:07:41 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-88</guid>
+		<description><![CDATA[Hi Tori, 
+ 
+Just released version 2.5.4 of Link Library to add a new field to specify your own stylesheet instead of being stuck with stylesheet.css. Upgrade and you will see the new option in the admin panel. 
+ 
+Cheers, 
+ 
+Yannick ]]></description>
+		<content:encoded><![CDATA[<p>Hi Tori, </p>
+<p>Just released version 2.5.4 of Link Library to add a new field to specify your own stylesheet instead of being stuck with stylesheet.css. Upgrade and you will see the new option in the admin panel. </p>
+<p>Cheers, </p>
+<p>Yannick </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tori</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-87</link>
+		<dc:creator><![CDATA[Tori]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 10:36:29 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-87</guid>
+		<description><![CDATA[I know I should post this on your new forum, but any chance you could have a css option? So that we can choose to your css or our own?
+ 
+
+ 
+Thanks... fixed the problem...
+ 
+
+ 
+Tori ]]></description>
+		<content:encoded><![CDATA[<p>I know I should post this on your new forum, but any chance you could have a css option? So that we can choose to your css or our own?</p>
+<p>Thanks&#8230; fixed the problem&#8230;</p>
+<p>Tori </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tori</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-86</link>
+		<dc:creator><![CDATA[Tori]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 10:21:27 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-86</guid>
+		<description><![CDATA[The illegal type offset is for magpie, not you. It just coincided with the activation of your plugin because that is when I also activated the new version of magpie. Just waiting for it to be fixed.
+ 
+
+ 
+Thanks for the advice. I am going to try it now. ]]></description>
+		<content:encoded><![CDATA[<p>The illegal type offset is for magpie, not you. It just coincided with the activation of your plugin because that is when I also activated the new version of magpie. Just waiting for it to be fixed.</p>
+<p>Thanks for the advice. I am going to try it now. </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Yannick Lefebvre</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-85</link>
+		<dc:creator><![CDATA[Yannick Lefebvre]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2009 14:27:03 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-85</guid>
+		<description><![CDATA[Hi Tori, 
+ 
+I am not quite sure what happened. I fixed the errors by deleting all files on the Link Library cache directory and made sure that it had write permissions for other processes. The message was basically saying that the plugin was not able to write to the cache files. 
+ 
+Could you give me the full other message about the illegal type offset. I don&#039;t recall having that error message before. 
+ 
+Yannick ]]></description>
+		<content:encoded><![CDATA[<p>Hi Tori, </p>
+<p>I am not quite sure what happened. I fixed the errors by deleting all files on the Link Library cache directory and made sure that it had write permissions for other processes. The message was basically saying that the plugin was not able to write to the cache files. </p>
+<p>Could you give me the full other message about the illegal type offset. I don&#039;t recall having that error message before. </p>
+<p>Yannick </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tori</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-84</link>
+		<dc:creator><![CDATA[Tori]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2009 13:50:36 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-84</guid>
+		<description><![CDATA[Yannick, the plugin has gone a bit haywire. You are getting the same warning message we get:
+ 
+YRS: 
+ 
+Warning: /home/amcyel/public_html/yannickcorner/wp-content/cache/link-library/087a2dc955e10e72c3bbb8ab6a3971b6.spc is not writeable in /home/amcyel/public_html/yannickcorner/wp-content/plugins/link-library/simplepie.inc on line 1779
+ 
+
+ 
+ PLUS we get warning messages quite often on the front page: Warning: Illegal offset type in...
+ 
+
+ 
+What&#039;s up?
+ 
+
+ 
+Tori ]]></description>
+		<content:encoded><![CDATA[<p>Yannick, the plugin has gone a bit haywire. You are getting the same warning message we get:</p>
+<p>YRS: </p>
+<p>Warning: /home/amcyel/public_html/yannickcorner/wp-content/cache/link-library/087a2dc955e10e72c3bbb8ab6a3971b6.spc is not writeable in /home/amcyel/public_html/yannickcorner/wp-content/plugins/link-library/simplepie.inc on line 1779</p>
+<p> PLUS we get warning messages quite often on the front page: Warning: Illegal offset type in&#8230;</p>
+<p>What&#039;s up?</p>
+<p>Tori </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Yannick Lefebvre</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-83</link>
+		<dc:creator><![CDATA[Yannick Lefebvre]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2009 06:50:44 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-83</guid>
+		<description><![CDATA[I had actually noticed that issue two days ago in working on the new release. Next version (2.5) will address this. ]]></description>
+		<content:encoded><![CDATA[<p>I had actually noticed that issue two days ago in working on the new release. Next version (2.5) will address this. </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tori</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-82</link>
+		<dc:creator><![CDATA[Tori]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2009 11:46:55 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-82</guid>
+		<description><![CDATA[I found my problem, which may be someone else&#039;s as well, so here goes:
+ 
+1.
+ 
+the link to the rss and preview icons was getting an extra backslash. I edited the plugin code and took out the backslash in front of &#039;/icons/&#039;.  
+ 
+
+ 
+2.
+ 
+The preview image began with a capital P, so I changed it to a small p. 
+ 
+
+ 
+Now it works great!
+ 
+
+ 
+Very simple solutions. ]]></description>
+		<content:encoded><![CDATA[<p>I found my problem, which may be someone else&#039;s as well, so here goes:</p>
+<p>1.</p>
+<p>the link to the rss and preview icons was getting an extra backslash. I edited the plugin code and took out the backslash in front of &#039;/icons/&#039;.  </p>
+<p>2.</p>
+<p>The preview image began with a capital P, so I changed it to a small p. </p>
+<p>Now it works great!</p>
+<p>Very simple solutions. </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Yannick Lefebvre</title>
+		<link>/links-page-with-preview/comment-page-1/#comment-81</link>
+		<dc:creator><![CDATA[Yannick Lefebvre]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2009 08:42:28 +0000</pubDate>
+		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=734#comment-81</guid>
+		<description><![CDATA[I activated the &#034;Show RSS Feed Headers in Link Library output&#034; and &#034;Show RSS Feed Content in Link Library output&#034; options and set the &#034;Number of RSS articles shown in Link Library Output&#034; option to 1.
+ 
+
+ 
+These parameters are almost at the bottom of the configuration page.
+ 
+
+ 
+Thanks for the good words on Link Library. ]]></description>
+		<content:encoded><![CDATA[<p>I activated the &quot;Show RSS Feed Headers in Link Library output&quot; and &quot;Show RSS Feed Content in Link Library output&quot; options and set the &quot;Number of RSS articles shown in Link Library Output&quot; option to 1.</p>
+<p>These parameters are almost at the bottom of the configuration page.</p>
+<p>Thanks for the good words on Link Library. </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
