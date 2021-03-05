@@ -7,50 +7,65 @@
 	
 	>
 <channel>
-	<title>Comments on: Link Library Examples</title>
+	<title>
+	Comments on: Link Library Examples	</title>
 	<atom:link href="/wordpress-plugins/link-library/link-library-usage-examples/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
-	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<lastBuildDate>Tue, 09 Dec 2014 21:25:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	
 	<item>
-		<title>By: Jack Bobeck</title>
+		<title>
+		By: Jack Bobeck		</title>
 		<link>/wordpress-plugins/link-library/link-library-usage-examples/comment-page-1/#comment-41184</link>
+
 		<dc:creator><![CDATA[Jack Bobeck]]></dc:creator>
 		<pubDate>Tue, 09 Dec 2014 21:25:32 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=926#comment-41184</guid>
-		<description><![CDATA[Yannick,
+
+					<description><![CDATA[Yannick,
 Great plugin, I am using it in 2 sites and will be recommending it to others! Outstanding solution!
 jack]]></description>
-		<content:encoded><![CDATA[<p>Yannick,<br />
+			<content:encoded><![CDATA[<p>Yannick,<br />
 Great plugin, I am using it in 2 sites and will be recommending it to others! Outstanding solution!<br />
 jack</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Andreas</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Andreas		</title>
 		<link>/wordpress-plugins/link-library/link-library-usage-examples/comment-page-1/#comment-31007</link>
+
 		<dc:creator><![CDATA[Andreas]]></dc:creator>
 		<pubDate>Wed, 27 Aug 2014 19:17:47 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=926#comment-31007</guid>
-		<description><![CDATA[I have added a rating option and in addition a custom order function.]]></description>
-		<content:encoded><![CDATA[<p>I have added a rating option and in addition a custom order function.</p>
+
+					<description><![CDATA[I have added a rating option and in addition a custom order function.]]></description>
+			<content:encoded><![CDATA[<p>I have added a rating option and in addition a custom order function.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: JohnD</title>
+		
+			</item>
+		<item>
+		<title>
+		By: JohnD		</title>
 		<link>/wordpress-plugins/link-library/link-library-usage-examples/comment-page-1/#comment-17000</link>
+
 		<dc:creator><![CDATA[JohnD]]></dc:creator>
 		<pubDate>Mon, 27 Jan 2014 01:14:40 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=926#comment-17000</guid>
-		<description><![CDATA[Hey Yannick,
+
+					<description><![CDATA[Hey Yannick,
 
 Just want to say that you have a great plug in! I am also using your plugin in my site. More power!]]></description>
-		<content:encoded><![CDATA[<p>Hey Yannick,</p>
+			<content:encoded><![CDATA[<p>Hey Yannick,</p>
 <p>Just want to say that you have a great plug in! I am also using your plugin in my site. More power!</p>
 ]]></content:encoded>
-	</item>
-</channel>
+		
+			</item>
+	</channel>
 </rss>

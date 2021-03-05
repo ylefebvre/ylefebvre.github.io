@@ -7,13 +7,16 @@
 	
 	>
 <channel>
-	<title>Comments on: WordPress Plugins</title>
+	<title>
+	Comments on: WordPress Plugins	</title>
 	<atom:link href="/wordpress-plugins/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
-	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<lastBuildDate>Tue, 02 Jul 2013 00:20:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	
 </channel>
 </rss>

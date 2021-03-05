@@ -7,33 +7,44 @@
 	
 	>
 <channel>
-	<title>Comments on: TV Shows</title>
+	<title>
+	Comments on: TV Shows	</title>
 	<atom:link href="/2009-2010-tv-schedule/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
-	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<lastBuildDate>Mon, 14 Feb 2011 05:28:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	
 	<item>
-		<title>By: [Simple Wordpress How To Video Training] Daily newsletter &#124; michaelsviewpointblog</title>
+		<title>
+		By: [Simple Wordpress How To Video Training] Daily newsletter &#124; michaelsviewpointblog		</title>
 		<link>/2009-2010-tv-schedule/comment-page-1/#comment-93</link>
+
 		<dc:creator><![CDATA[[Simple Wordpress How To Video Training] Daily newsletter &#124; michaelsviewpointblog]]></dc:creator>
 		<pubDate>Mon, 14 Feb 2011 05:28:05 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=759#comment-93</guid>
-		<description><![CDATA[[...] in a tooltip. You can see a demonstration of the output of the plugin using a single schedule at: http://yannickcorner.nayanna.biz/2009-2010-tv-schedule/ Download: http://wordpress.org/extend/plugins/weekly-schedule/ WordPressInfo.com [...]]]></description>
-		<content:encoded><![CDATA[<p>[&#8230;] in a tooltip. You can see a demonstration of the output of the plugin using a single schedule at: <a href="http://yannickcorner.nayanna.biz/2009-2010-tv-schedule/" rel="nofollow">http://yannickcorner.nayanna.biz/2009-2010-tv-schedule/</a> Download: <a href="http://wordpress.org/extend/plugins/weekly-schedule/" rel="nofollow">http://wordpress.org/extend/plugins/weekly-schedule/</a> WordPressInfo.com [&#8230;]</p>
+
+					<description><![CDATA[[...] in a tooltip. You can see a demonstration of the output of the plugin using a single schedule at: http://yannickcorner.nayanna.biz/2009-2010-tv-schedule/ Download: http://wordpress.org/extend/plugins/weekly-schedule/ WordPressInfo.com [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] in a tooltip. You can see a demonstration of the output of the plugin using a single schedule at: <a href="http://yannickcorner.nayanna.biz/2009-2010-tv-schedule/" rel="nofollow ugc">http://yannickcorner.nayanna.biz/2009-2010-tv-schedule/</a> Download: <a href="http://wordpress.org/extend/plugins/weekly-schedule/" rel="nofollow ugc">http://wordpress.org/extend/plugins/weekly-schedule/</a> WordPressInfo.com [&#8230;]</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Afficher le planning de la semaine sur votre blog WordPress sur Geekeries.fr &#124; DÃ©couvrir WordPress</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Afficher le planning de la semaine sur votre blog WordPress sur Geekeries.fr &#124; DÃ©couvrir WordPress		</title>
 		<link>/2009-2010-tv-schedule/comment-page-1/#comment-92</link>
+
 		<dc:creator><![CDATA[Afficher le planning de la semaine sur votre blog WordPress sur Geekeries.fr &#124; DÃ©couvrir WordPress]]></dc:creator>
 		<pubDate>Tue, 15 Sep 2009 09:50:13 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=759#comment-92</guid>
-		<description><![CDATA[[...] DÃ©monstration du planning ! [...]]]></description>
-		<content:encoded><![CDATA[<p>[&#8230;] DÃ©monstration du planning ! [&#8230;]</p>
+
+					<description><![CDATA[[...] DÃ©monstration du planning ! [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] DÃ©monstration du planning ! [&#8230;]</p>
 ]]></content:encoded>
-	</item>
-</channel>
+		
+			</item>
+	</channel>
 </rss>

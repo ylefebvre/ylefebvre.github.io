@@ -7,34 +7,47 @@
 	
 	>
 <channel>
-	<title>Comments on: Bilingual Linker</title>
+	<title>
+	Comments on: Bilingual Linker	</title>
 	<atom:link href="/wordpress-plugins/bilingual-linker/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
-	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<lastBuildDate>Sat, 27 Feb 2021 14:13:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	
 	<item>
-		<title>By: ylefebvre</title>
+		<title>
+		By: ylefebvre		</title>
 		<link>/wordpress-plugins/bilingual-linker/comment-page-1/#comment-41192</link>
+
 		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
 		<pubDate>Wed, 10 Dec 2014 01:05:46 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-41192</guid>
-		<description><![CDATA[Bonjour Mélanie, Vous avez besoin d&#039;avoir quelques connaissances sur la modification des fichiers d&#039;en-tête de sites WordPress pour réussir à afficher le menu de sélection des langues de WordPress. Plusieurs éditeurs tels de Packt offrent plusieurs livres sur le sujet.
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/bilingual-linker/comment-page-1/#comment-39300&quot;&gt;Mélanie&lt;/a&gt;.
+
+Bonjour Mélanie, Vous avez besoin d&#039;avoir quelques connaissances sur la modification des fichiers d&#039;en-tête de sites WordPress pour réussir à afficher le menu de sélection des langues de WordPress. Plusieurs éditeurs tels de Packt offrent plusieurs livres sur le sujet.
 
 Si vous n&#039;avez vraiment aucune connaissances, je peut vous aider mais j&#039;aurais besoin que vous m&#039;envoyiez vos paramètres de connection pour votre site en utilisant le formulaire de contact sur mon site. Veuillez me contacter en privé et je verrai comment je peux vous aider.]]></description>
-		<content:encoded><![CDATA[<p>Bonjour Mélanie, Vous avez besoin d&#8217;avoir quelques connaissances sur la modification des fichiers d&#8217;en-tête de sites WordPress pour réussir à afficher le menu de sélection des langues de WordPress. Plusieurs éditeurs tels de Packt offrent plusieurs livres sur le sujet.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/bilingual-linker/comment-page-1/#comment-39300">Mélanie</a>.</p>
+<p>Bonjour Mélanie, Vous avez besoin d&#8217;avoir quelques connaissances sur la modification des fichiers d&#8217;en-tête de sites WordPress pour réussir à afficher le menu de sélection des langues de WordPress. Plusieurs éditeurs tels de Packt offrent plusieurs livres sur le sujet.</p>
 <p>Si vous n&#8217;avez vraiment aucune connaissances, je peut vous aider mais j&#8217;aurais besoin que vous m&#8217;envoyiez vos paramètres de connection pour votre site en utilisant le formulaire de contact sur mon site. Veuillez me contacter en privé et je verrai comment je peux vous aider.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Mélanie</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Mélanie		</title>
 		<link>/wordpress-plugins/bilingual-linker/comment-page-1/#comment-39300</link>
+
 		<dc:creator><![CDATA[Mélanie]]></dc:creator>
 		<pubDate>Tue, 25 Nov 2014 10:59:15 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-39300</guid>
-		<description><![CDATA[Bonjour,
+
+					<description><![CDATA[Bonjour,
 
 J&#039;ai de très faibles connaissances en ce qui concerne le vocabulaire informatique.
 J&#039;ai téléchargé votre plugin, et je suis allé dans réglages afin d&#039;insérer mes deux langues (français - anglais) avec les URL (wordpress.org - wordpress.en) mais après je suis bloquée.
@@ -43,7 +56,7 @@ Et une dernière petite question ! Pour avoir les drapeaux, quel est le code HTM
 
 Merci d&#039;avance
 Mélanie]]></description>
-		<content:encoded><![CDATA[<p>Bonjour,</p>
+			<content:encoded><![CDATA[<p>Bonjour,</p>
 <p>J&#8217;ai de très faibles connaissances en ce qui concerne le vocabulaire informatique.<br />
 J&#8217;ai téléchargé votre plugin, et je suis allé dans réglages afin d&#8217;insérer mes deux langues (français &#8211; anglais) avec les URL (wordpress.org &#8211; wordpress.en) mais après je suis bloquée.<br />
 De plus, j&#8217;ai regardé votre vidéo sur YouTube &#8220;Bilingual Linker for WordPress &#8211; Tutorial 1: Basics&#8221; et je me pose une question: comment faites-vous pour avoir deux pages sur un même réseau, pour ainsi naviguer du site anglais au site français ?<br />
@@ -51,82 +64,125 @@ Et une dernière petite question ! Pour avoir les drapeaux, quel est le code HTM
 <p>Merci d&#8217;avance<br />
 Mélanie</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: ylefebvre</title>
+		
+			</item>
+		<item>
+		<title>
+		By: ylefebvre		</title>
 		<link>/wordpress-plugins/bilingual-linker/comment-page-1/#comment-15464</link>
+
 		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
 		<pubDate>Sun, 29 Dec 2013 14:30:20 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-15464</guid>
-		<description><![CDATA[Bonjour Antoine, Pour placer un drapeau, il faut placer le code HTML dans le champ Translation Link Text dans les réglages du plugin. Est-ce bien ou vous avez tenté de placer le code?]]></description>
-		<content:encoded><![CDATA[<p>Bonjour Antoine, Pour placer un drapeau, il faut placer le code HTML dans le champ Translation Link Text dans les réglages du plugin. Est-ce bien ou vous avez tenté de placer le code?</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/bilingual-linker/comment-page-1/#comment-15273&quot;&gt;Antoine&lt;/a&gt;.
+
+Bonjour Antoine, Pour placer un drapeau, il faut placer le code HTML dans le champ Translation Link Text dans les réglages du plugin. Est-ce bien ou vous avez tenté de placer le code?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/bilingual-linker/comment-page-1/#comment-15273">Antoine</a>.</p>
+<p>Bonjour Antoine, Pour placer un drapeau, il faut placer le code HTML dans le champ Translation Link Text dans les réglages du plugin. Est-ce bien ou vous avez tenté de placer le code?</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Antoine</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Antoine		</title>
 		<link>/wordpress-plugins/bilingual-linker/comment-page-1/#comment-15273</link>
+
 		<dc:creator><![CDATA[Antoine]]></dc:creator>
 		<pubDate>Fri, 27 Dec 2013 10:23:35 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-15273</guid>
-		<description><![CDATA[Bonjour Yannick,
+
+					<description><![CDATA[Bonjour Yannick,
 Comme Nathalie, félicitations pour ce plug in très bien conçu... seul hic où placer le code html d&#039;un drapeau à la place du lien de la langue ?
 J&#039;aimerai mettre ça 
 à la place de Français sur www.lespot-surfboards.com/en J&#039;ai essayé de placé mon code dans les réglages du plug in et ça ne marche pas...]]></description>
-		<content:encoded><![CDATA[<p>Bonjour Yannick,<br />
+			<content:encoded><![CDATA[<p>Bonjour Yannick,<br />
 Comme Nathalie, félicitations pour ce plug in très bien conçu&#8230; seul hic où placer le code html d&#8217;un drapeau à la place du lien de la langue ?<br />
 J&#8217;aimerai mettre ça<br />
-à la place de Français sur <a href="http://www.lespot-surfboards.com/en" rel="nofollow">http://www.lespot-surfboards.com/en</a> J&#8217;ai essayé de placé mon code dans les réglages du plug in et ça ne marche pas&#8230;</p>
+à la place de Français sur <a href="http://www.lespot-surfboards.com/en" rel="nofollow ugc">http://www.lespot-surfboards.com/en</a> J&#8217;ai essayé de placé mon code dans les réglages du plug in et ça ne marche pas&#8230;</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: ylefebvre</title>
+		
+			</item>
+		<item>
+		<title>
+		By: ylefebvre		</title>
 		<link>/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10965</link>
+
 		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
 		<pubDate>Fri, 22 Nov 2013 13:59:21 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-10965</guid>
-		<description><![CDATA[Autre petite note Nathalie, vous devriez utiliser la fonction the_bilingual_link et non OutputBilingualLink.]]></description>
-		<content:encoded><![CDATA[<p>Autre petite note Nathalie, vous devriez utiliser la fonction the_bilingual_link et non OutputBilingualLink.</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10964&quot;&gt;ylefebvre&lt;/a&gt;.
+
+Autre petite note Nathalie, vous devriez utiliser la fonction the_bilingual_link et non OutputBilingualLink.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10964">ylefebvre</a>.</p>
+<p>Autre petite note Nathalie, vous devriez utiliser la fonction the_bilingual_link et non OutputBilingualLink.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: ylefebvre</title>
+		
+			</item>
+		<item>
+		<title>
+		By: ylefebvre		</title>
 		<link>/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10964</link>
+
 		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
 		<pubDate>Fri, 22 Nov 2013 13:58:40 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-10964</guid>
-		<description><![CDATA[Bonjour Nathalie, Non, pas dans le code. Bilingual a un panneau de configuration dans l&#039;admin de WordPress, dans la section Settings. Le texte qui apparait pour le lien de traduction est defini dans ce panneau. Vous pouvez donc ajouter le code HTML pour faire apparaitre une image dans cette configuration.]]></description>
-		<content:encoded><![CDATA[<p>Bonjour Nathalie, Non, pas dans le code. Bilingual a un panneau de configuration dans l&#8217;admin de WordPress, dans la section Settings. Le texte qui apparait pour le lien de traduction est defini dans ce panneau. Vous pouvez donc ajouter le code HTML pour faire apparaitre une image dans cette configuration.</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10892&quot;&gt;nathalie&lt;/a&gt;.
+
+Bonjour Nathalie, Non, pas dans le code. Bilingual a un panneau de configuration dans l&#039;admin de WordPress, dans la section Settings. Le texte qui apparait pour le lien de traduction est defini dans ce panneau. Vous pouvez donc ajouter le code HTML pour faire apparaitre une image dans cette configuration.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10892">nathalie</a>.</p>
+<p>Bonjour Nathalie, Non, pas dans le code. Bilingual a un panneau de configuration dans l&#8217;admin de WordPress, dans la section Settings. Le texte qui apparait pour le lien de traduction est defini dans ce panneau. Vous pouvez donc ajouter le code HTML pour faire apparaitre une image dans cette configuration.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: nathalie</title>
+		
+			</item>
+		<item>
+		<title>
+		By: nathalie		</title>
 		<link>/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10892</link>
+
 		<dc:creator><![CDATA[nathalie]]></dc:creator>
 		<pubDate>Thu, 21 Nov 2013 23:33:10 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-10892</guid>
-		<description><![CDATA[Merci pour la réponse rapide. Effectivement j&#039;aurai besoin de plus de précision. Il faut bien ajouter le code dans le fichier bilingual-linker.php? Comme c&#039;est du php je suis un perdue est ce que ce serait dans function OutputBilingualLink?
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10888&quot;&gt;ylefebvre&lt;/a&gt;.
+
+Merci pour la réponse rapide. Effectivement j&#039;aurai besoin de plus de précision. Il faut bien ajouter le code dans le fichier bilingual-linker.php? Comme c&#039;est du php je suis un perdue est ce que ce serait dans function OutputBilingualLink?
 Merci]]></description>
-		<content:encoded><![CDATA[<p>Merci pour la réponse rapide. Effectivement j&#8217;aurai besoin de plus de précision. Il faut bien ajouter le code dans le fichier bilingual-linker.php? Comme c&#8217;est du php je suis un perdue est ce que ce serait dans function OutputBilingualLink?<br />
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10888">ylefebvre</a>.</p>
+<p>Merci pour la réponse rapide. Effectivement j&#8217;aurai besoin de plus de précision. Il faut bien ajouter le code dans le fichier bilingual-linker.php? Comme c&#8217;est du php je suis un perdue est ce que ce serait dans function OutputBilingualLink?<br />
 Merci</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: ylefebvre</title>
+		
+			</item>
+		<item>
+		<title>
+		By: ylefebvre		</title>
 		<link>/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10888</link>
+
 		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
 		<pubDate>Thu, 21 Nov 2013 22:26:43 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-10888</guid>
-		<description><![CDATA[Bonjour Nathalie, Pas de probleme. C&#039;est le bon endroit pour des questions. Vous n&#039;avez qu&#039;a ajouter un peu de code HTML dans le panneau de configuration du plugin dans l&#039;admin après le texte affiché pour chaque langue, pour ajouter des balises img source et pointer vers votre image. Laissez-moi savoir si vous avez besoin de plus de détails.]]></description>
-		<content:encoded><![CDATA[<p>Bonjour Nathalie, Pas de probleme. C&#8217;est le bon endroit pour des questions. Vous n&#8217;avez qu&#8217;a ajouter un peu de code HTML dans le panneau de configuration du plugin dans l&#8217;admin après le texte affiché pour chaque langue, pour ajouter des balises img source et pointer vers votre image. Laissez-moi savoir si vous avez besoin de plus de détails.</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10887&quot;&gt;nathalie&lt;/a&gt;.
+
+Bonjour Nathalie, Pas de probleme. C&#039;est le bon endroit pour des questions. Vous n&#039;avez qu&#039;a ajouter un peu de code HTML dans le panneau de configuration du plugin dans l&#039;admin après le texte affiché pour chaque langue, pour ajouter des balises img source et pointer vers votre image. Laissez-moi savoir si vous avez besoin de plus de détails.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10887">nathalie</a>.</p>
+<p>Bonjour Nathalie, Pas de probleme. C&#8217;est le bon endroit pour des questions. Vous n&#8217;avez qu&#8217;a ajouter un peu de code HTML dans le panneau de configuration du plugin dans l&#8217;admin après le texte affiché pour chaque langue, pour ajouter des balises img source et pointer vers votre image. Laissez-moi savoir si vous avez besoin de plus de détails.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: nathalie</title>
+		
+			</item>
+		<item>
+		<title>
+		By: nathalie		</title>
 		<link>/wordpress-plugins/bilingual-linker/comment-page-1/#comment-10887</link>
+
 		<dc:creator><![CDATA[nathalie]]></dc:creator>
 		<pubDate>Thu, 21 Nov 2013 22:16:00 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/#comment-10887</guid>
-		<description><![CDATA[Bonjour Yannick,
+
+					<description><![CDATA[Bonjour Yannick,
 tout d&#039;abord merci d&#039;avoir créer ce plugin qui m&#039;est très utile pour la création d&#039;un site bilingue, et que j&#039;ai réussit à installer sans trop de mal avec mes connaissances très basiques en php.
 J&#039;ai quand même une question: j&#039;aimerai ajouter une icône du drapeau de la langue à coté du lien, est que c&#039;est possible facilement?
 Je sais que ma question n&#039;est pas vraiment au bon endroit mais j&#039;ai essayé de vous envoyer un message via le formulaire de contact mais ça ne fonctionne pas..
@@ -134,7 +190,7 @@ Merci
 Bonne fin de journée
 
 Nathalie]]></description>
-		<content:encoded><![CDATA[<p>Bonjour Yannick,<br />
+			<content:encoded><![CDATA[<p>Bonjour Yannick,<br />
 tout d&#8217;abord merci d&#8217;avoir créer ce plugin qui m&#8217;est très utile pour la création d&#8217;un site bilingue, et que j&#8217;ai réussit à installer sans trop de mal avec mes connaissances très basiques en php.<br />
 J&#8217;ai quand même une question: j&#8217;aimerai ajouter une icône du drapeau de la langue à coté du lien, est que c&#8217;est possible facilement?<br />
 Je sais que ma question n&#8217;est pas vraiment au bon endroit mais j&#8217;ai essayé de vous envoyer un message via le formulaire de contact mais ça ne fonctionne pas..<br />
@@ -142,6 +198,7 @@ Merci<br />
 Bonne fin de journée</p>
 <p>Nathalie</p>
 ]]></content:encoded>
-	</item>
-</channel>
+		
+			</item>
+	</channel>
 </rss>

@@ -7,63 +7,86 @@
 	
 	>
 <channel>
-	<title>Comments on: Freeware DB</title>
+	<title>
+	Comments on: Freeware DB	</title>
 	<atom:link href="/freeware-database/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
-	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<lastBuildDate>Mon, 30 Dec 2013 19:05:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	
 	<item>
-		<title>By: نمایش کتابخانه لینک ها با افزونه فارسی Link Library وردپرس &#124; آی تی استار</title>
+		<title>
+		By: نمایش کتابخانه لینک ها با افزونه فارسی Link Library وردپرس &#124; آی تی استار		</title>
 		<link>/freeware-database/comment-page-1/#comment-15518</link>
+
 		<dc:creator><![CDATA[نمایش کتابخانه لینک ها با افزونه فارسی Link Library وردپرس &#124; آی تی استار]]></dc:creator>
 		<pubDate>Mon, 30 Dec 2013 19:05:25 +0000</pubDate>
 		<guid isPermaLink="false">http://nayanna.biz/index.php/useful-links/#comment-15518</guid>
-		<description><![CDATA[[&#8230;] Library in table form with search box and link submission form [&#8230;]]]></description>
-		<content:encoded><![CDATA[<p>[&#8230;] Library in table form with search box and link submission form [&#8230;]</p>
+
+					<description><![CDATA[[&#8230;] Library in table form with search box and link submission form [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Library in table form with search box and link submission form [&#8230;]</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Freeware DB Â« Yannick&#8217;s Corner &#171; Macphisto007&#8242;s Weblog</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Freeware DB Â« Yannick&#8217;s Corner &#171; Macphisto007&#8242;s Weblog		</title>
 		<link>/freeware-database/comment-page-1/#comment-5</link>
+
 		<dc:creator><![CDATA[Freeware DB Â« Yannick&#8217;s Corner &#171; Macphisto007&#8242;s Weblog]]></dc:creator>
 		<pubDate>Wed, 08 Feb 2012 05:49:04 +0000</pubDate>
 		<guid isPermaLink="false">http://nayanna.biz/index.php/useful-links/#comment-5</guid>
-		<description><![CDATA[[...] Freeware DB Â« Yannick&#8217;s Corner. [...]]]></description>
-		<content:encoded><![CDATA[<p>[&#8230;] Freeware DB Â« Yannick&#8217;s Corner. [&#8230;]</p>
+
+					<description><![CDATA[[...] Freeware DB Â« Yannick&#8217;s Corner. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Freeware DB Â« Yannick&#8217;s Corner. [&#8230;]</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Free Link Directory Plugins for Wordpress &#124; Live Ambitions</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Free Link Directory Plugins for Wordpress &#124; Live Ambitions		</title>
 		<link>/freeware-database/comment-page-1/#comment-4</link>
+
 		<dc:creator><![CDATA[Free Link Directory Plugins for Wordpress &#124; Live Ambitions]]></dc:creator>
 		<pubDate>Tue, 01 Sep 2009 21:55:41 +0000</pubDate>
 		<guid isPermaLink="false">http://nayanna.biz/index.php/useful-links/#comment-4</guid>
-		<description><![CDATA[[...] Link Library by Yannick Lefebvre Author page &#124; Demo [...]]]></description>
-		<content:encoded><![CDATA[<p>[&#8230;] Link Library by Yannick Lefebvre Author page | Demo [&#8230;]</p>
+
+					<description><![CDATA[[...] Link Library by Yannick Lefebvre Author page &#124; Demo [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Link Library by Yannick Lefebvre Author page | Demo [&#8230;]</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Link Library Plugin &#124; WordPress Plugins Database - WordPressPluginsDatabase.com</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Link Library Plugin &#124; WordPress Plugins Database - WordPressPluginsDatabase.com		</title>
 		<link>/freeware-database/comment-page-1/#comment-3</link>
+
 		<dc:creator><![CDATA[Link Library Plugin &#124; WordPress Plugins Database - WordPressPluginsDatabase.com]]></dc:creator>
 		<pubDate>Tue, 24 Feb 2009 02:30:18 +0000</pubDate>
 		<guid isPermaLink="false">http://nayanna.biz/index.php/useful-links/#comment-3</guid>
-		<description><![CDATA[[...] can see a demonstration of the output of the plugin here. .....read more       Download Plugin!  Version 1.1.1 Last Updated: February 13, 2009   Plugin [...]]]></description>
-		<content:encoded><![CDATA[<p>[&#8230;] can see a demonstration of the output of the plugin here. &#8230;..read more       Download Plugin!  Version 1.1.1 Last Updated: February 13, 2009   Plugin [&#8230;]</p>
+
+					<description><![CDATA[[...] can see a demonstration of the output of the plugin here. .....read more       Download Plugin!  Version 1.1.1 Last Updated: February 13, 2009   Plugin [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] can see a demonstration of the output of the plugin here. &#8230;..read more       Download Plugin!  Version 1.1.1 Last Updated: February 13, 2009   Plugin [&#8230;]</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Re-vamped Freeware Database</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Re-vamped Freeware Database		</title>
 		<link>/freeware-database/comment-page-1/#comment-2</link>
+
 		<dc:creator><![CDATA[Re-vamped Freeware Database]]></dc:creator>
 		<pubDate>Mon, 29 Dec 2008 19:57:40 +0000</pubDate>
 		<guid isPermaLink="false">http://nayanna.biz/index.php/useful-links/#comment-2</guid>
-		<description><![CDATA[[...] Freeware Database [...]]]></description>
-		<content:encoded><![CDATA[<p>[&#8230;] Freeware Database [&#8230;]</p>
+
+					<description><![CDATA[[...] Freeware Database [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Freeware Database [&#8230;]</p>
 ]]></content:encoded>
-	</item>
-</channel>
+		
+			</item>
+	</channel>
 </rss>

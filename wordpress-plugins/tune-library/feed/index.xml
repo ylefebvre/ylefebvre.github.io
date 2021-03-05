@@ -7,114 +7,174 @@
 	
 	>
 <channel>
-	<title>Comments on: Tune Library</title>
+	<title>
+	Comments on: Tune Library	</title>
 	<atom:link href="/wordpress-plugins/tune-library/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
-	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<lastBuildDate>Sat, 27 Feb 2021 14:24:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	
 	<item>
-		<title>By: yel</title>
+		<title>
+		By: yel		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-879</link>
+
 		<dc:creator><![CDATA[yel]]></dc:creator>
 		<pubDate>Thu, 27 Sep 2012 01:59:49 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-879</guid>
-		<description><![CDATA[Hi Sam, Just to be sure, you are trying to import files with a csv file in WordPress 3.4.x, right? I just tested in 3.4.2 and it worked perfectly. Did you try importing the original template or only a modified version of the file with your own contents. If the latter, how many entries did you have in the file? How large was it?]]></description>
-		<content:encoded><![CDATA[<p>Hi Sam, Just to be sure, you are trying to import files with a csv file in WordPress 3.4.x, right? I just tested in 3.4.2 and it worked perfectly. Did you try importing the original template or only a modified version of the file with your own contents. If the latter, how many entries did you have in the file? How large was it?</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/tune-library/comment-page-3/#comment-878&quot;&gt;sam&lt;/a&gt;.
+
+Hi Sam, Just to be sure, you are trying to import files with a csv file in WordPress 3.4.x, right? I just tested in 3.4.2 and it worked perfectly. Did you try importing the original template or only a modified version of the file with your own contents. If the latter, how many entries did you have in the file? How large was it?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/tune-library/comment-page-3/#comment-878">sam</a>.</p>
+<p>Hi Sam, Just to be sure, you are trying to import files with a csv file in WordPress 3.4.x, right? I just tested in 3.4.2 and it worked perfectly. Did you try importing the original template or only a modified version of the file with your own contents. If the latter, how many entries did you have in the file? How large was it?</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: sam</title>
+		
+			</item>
+		<item>
+		<title>
+		By: sam		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-878</link>
+
 		<dc:creator><![CDATA[sam]]></dc:creator>
 		<pubDate>Wed, 12 Sep 2012 08:28:33 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-878</guid>
-		<description><![CDATA[this seems like a great plugin but is it working on the currently wordpress version as it seems that i cannot load the csv list, nothing shows on the output.]]></description>
-		<content:encoded><![CDATA[<p>this seems like a great plugin but is it working on the currently wordpress version as it seems that i cannot load the csv list, nothing shows on the output.</p>
+
+					<description><![CDATA[this seems like a great plugin but is it working on the currently wordpress version as it seems that i cannot load the csv list, nothing shows on the output.]]></description>
+			<content:encoded><![CDATA[<p>this seems like a great plugin but is it working on the currently wordpress version as it seems that i cannot load the csv list, nothing shows on the output.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Wedding DJ Sydney</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Wedding DJ Sydney		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-877</link>
+
 		<dc:creator><![CDATA[Wedding DJ Sydney]]></dc:creator>
 		<pubDate>Wed, 15 Aug 2012 01:16:18 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-877</guid>
-		<description><![CDATA[This is a good point!]]></description>
-		<content:encoded><![CDATA[<p>This is a good point!</p>
+
+					<description><![CDATA[This is a good point!]]></description>
+			<content:encoded><![CDATA[<p>This is a good point!</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: yel</title>
+		
+			</item>
+		<item>
+		<title>
+		By: yel		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-876</link>
+
 		<dc:creator><![CDATA[yel]]></dc:creator>
 		<pubDate>Wed, 15 Aug 2012 01:13:52 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-876</guid>
-		<description><![CDATA[That&#039;s one way to do it. Although not as interactive and immersive as having the user parse your music collection right from your site.]]></description>
-		<content:encoded><![CDATA[<p>That&#8217;s one way to do it. Although not as interactive and immersive as having the user parse your music collection right from your site.</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/tune-library/comment-page-3/#comment-875&quot;&gt;Wedding DJ Sydney&lt;/a&gt;.
+
+That&#039;s one way to do it. Although not as interactive and immersive as having the user parse your music collection right from your site.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/tune-library/comment-page-3/#comment-875">Wedding DJ Sydney</a>.</p>
+<p>That&#8217;s one way to do it. Although not as interactive and immersive as having the user parse your music collection right from your site.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Wedding DJ Sydney</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Wedding DJ Sydney		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-875</link>
+
 		<dc:creator><![CDATA[Wedding DJ Sydney]]></dc:creator>
 		<pubDate>Tue, 14 Aug 2012 10:03:03 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-875</guid>
-		<description><![CDATA[Hey man, I have itunes playlists on my website and I just used Print as PDF from in iTunes.]]></description>
-		<content:encoded><![CDATA[<p>Hey man, I have itunes playlists on my website and I just used Print as PDF from in iTunes.</p>
+
+					<description><![CDATA[Hey man, I have itunes playlists on my website and I just used Print as PDF from in iTunes.]]></description>
+			<content:encoded><![CDATA[<p>Hey man, I have itunes playlists on my website and I just used Print as PDF from in iTunes.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Roy</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Roy		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-874</link>
+
 		<dc:creator><![CDATA[Roy]]></dc:creator>
 		<pubDate>Tue, 03 Jul 2012 22:52:34 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-874</guid>
-		<description><![CDATA[So the row count is 0.  And after the import xml script is done running, there is no message saying how many records were imported.  So i guess the problem is getting the information into the DB.]]></description>
-		<content:encoded><![CDATA[<p>So the row count is 0.  And after the import xml script is done running, there is no message saying how many records were imported.  So i guess the problem is getting the information into the DB.</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/tune-library/comment-page-3/#comment-873&quot;&gt;Roy&lt;/a&gt;.
+
+So the row count is 0.  And after the import xml script is done running, there is no message saying how many records were imported.  So i guess the problem is getting the information into the DB.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/tune-library/comment-page-3/#comment-873">Roy</a>.</p>
+<p>So the row count is 0.  And after the import xml script is done running, there is no message saying how many records were imported.  So i guess the problem is getting the information into the DB.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Roy</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Roy		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-873</link>
+
 		<dc:creator><![CDATA[Roy]]></dc:creator>
 		<pubDate>Tue, 03 Jul 2012 21:26:56 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-873</guid>
-		<description><![CDATA[Nevermind,  I found the tracks table. Let me see what I can do to populate it.  Thanks Yannick!]]></description>
-		<content:encoded><![CDATA[<p>Nevermind,  I found the tracks table. Let me see what I can do to populate it.  Thanks Yannick!</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/tune-library/comment-page-3/#comment-872&quot;&gt;Roy&lt;/a&gt;.
+
+Nevermind,  I found the tracks table. Let me see what I can do to populate it.  Thanks Yannick!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/tune-library/comment-page-3/#comment-872">Roy</a>.</p>
+<p>Nevermind,  I found the tracks table. Let me see what I can do to populate it.  Thanks Yannick!</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Roy</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Roy		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-872</link>
+
 		<dc:creator><![CDATA[Roy]]></dc:creator>
 		<pubDate>Tue, 03 Jul 2012 20:52:01 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-872</guid>
-		<description><![CDATA[Thanks so much for the quick response.  Where would I find the tracks table? I can&#039;t find any kind of table under the pluginstune-library directory.  Is it somewhere else?
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/tune-library/comment-page-3/#comment-871&quot;&gt;yel&lt;/a&gt;.
+
+Thanks so much for the quick response.  Where would I find the tracks table? I can&#039;t find any kind of table under the pluginstune-library directory.  Is it somewhere else?
 
 Roy]]></description>
-		<content:encoded><![CDATA[<p>Thanks so much for the quick response.  Where would I find the tracks table? I can&#8217;t find any kind of table under the pluginstune-library directory.  Is it somewhere else?</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/tune-library/comment-page-3/#comment-871">yel</a>.</p>
+<p>Thanks so much for the quick response.  Where would I find the tracks table? I can&#8217;t find any kind of table under the pluginstune-library directory.  Is it somewhere else?</p>
 <p>Roy</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: yel</title>
+		
+			</item>
+		<item>
+		<title>
+		By: yel		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-871</link>
+
 		<dc:creator><![CDATA[yel]]></dc:creator>
 		<pubDate>Tue, 03 Jul 2012 01:03:29 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-871</guid>
-		<description><![CDATA[Hi Roy, before deleting the contents of the tracks table, did you look to check if any records had been loaded into the table? I see that basic output from Tune Library is making it onto the page, but no content, indicating that it can&#039;t find data in the tracks table.]]></description>
-		<content:encoded><![CDATA[<p>Hi Roy, before deleting the contents of the tracks table, did you look to check if any records had been loaded into the table? I see that basic output from Tune Library is making it onto the page, but no content, indicating that it can&#8217;t find data in the tracks table.</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugins/tune-library/comment-page-3/#comment-870&quot;&gt;Roy&lt;/a&gt;.
+
+Hi Roy, before deleting the contents of the tracks table, did you look to check if any records had been loaded into the table? I see that basic output from Tune Library is making it onto the page, but no content, indicating that it can&#039;t find data in the tracks table.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugins/tune-library/comment-page-3/#comment-870">Roy</a>.</p>
+<p>Hi Roy, before deleting the contents of the tracks table, did you look to check if any records had been loaded into the table? I see that basic output from Tune Library is making it onto the page, but no content, indicating that it can&#8217;t find data in the tracks table.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: Roy</title>
+		
+			</item>
+		<item>
+		<title>
+		By: Roy		</title>
 		<link>/wordpress-plugins/tune-library/comment-page-3/#comment-870</link>
+
 		<dc:creator><![CDATA[Roy]]></dc:creator>
 		<pubDate>Sun, 01 Jul 2012 17:25:36 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=783#comment-870</guid>
-		<description><![CDATA[Yannick,
+
+					<description><![CDATA[Yannick,
 
 First of all, thank you so much for the work you&#039;ve put in to this plugin.  I think the concept is awesome, I just haven&#039;t been able to get it to work.  Please help.  I place the [tune-library] onto a page but nothing shows up.
 
@@ -130,16 +190,17 @@ I tried uploaded my library file as an xml and as a csv (deleting the previous d
 
 Thanks,
 Roy]]></description>
-		<content:encoded><![CDATA[<p>Yannick,</p>
+			<content:encoded><![CDATA[<p>Yannick,</p>
 <p>First of all, thank you so much for the work you&#8217;ve put in to this plugin.  I think the concept is awesome, I just haven&#8217;t been able to get it to work.  Please help.  I place the [tune-library] onto a page but nothing shows up.</p>
 <p>I have installed the plugin to Word Press and activated it, then included [tune-library] onto a page that I wanted it to go into:</p>
-<p><a href="http://www.soentertaining.com/music/" rel="nofollow">http://www.soentertaining.com/music/</a></p>
+<p><a href="http://www.soentertaining.com/music/" rel="nofollow ugc">http://www.soentertaining.com/music/</a></p>
 <p>and into a new page with no other content other than [tune-library]:</p>
-<p><a href="http://www.soentertaining.com/tune-library/" rel="nofollow">http://www.soentertaining.com/tune-library/</a></p>
+<p><a href="http://www.soentertaining.com/tune-library/" rel="nofollow ugc">http://www.soentertaining.com/tune-library/</a></p>
 <p>I tried uploaded my library file as an xml and as a csv (deleting the previous database using the &#8220;delete imported library&#8221; link in the Tune-Library settings page before re-loading.</p>
 <p>Thanks,<br />
 Roy</p>
 ]]></content:encoded>
-	</item>
-</channel>
+		
+			</item>
+	</channel>
 </rss>

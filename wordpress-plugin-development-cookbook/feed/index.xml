@@ -7,55 +7,73 @@
 	
 	>
 <channel>
-	<title>Comments on: WordPress Plugin Development Cookbook</title>
+	<title>
+	Comments on: WordPress Plugin Development Cookbook	</title>
 	<atom:link href="/wordpress-plugin-development-cookbook/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>WordPress Plugins, Plugin Development Cookbook and random thoughts</description>
-	<lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<lastBuildDate>Thu, 10 Aug 2017 12:33:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	
 	<item>
-		<title>By: mzer Mike</title>
+		<title>
+		By: mzer Mike		</title>
 		<link>/wordpress-plugin-development-cookbook/comment-page-1/#comment-1894</link>
+
 		<dc:creator><![CDATA[mzer Mike]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2013 19:41:35 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=1734#comment-1894</guid>
-		<description><![CDATA[Hi ylefebvre,
+
+					<description><![CDATA[Hi ylefebvre,
 Thank you for your reply,
 I am following the recipes outline in your book, as well as the source codes i downloaded from PACKT.]]></description>
-		<content:encoded><![CDATA[<p>Hi ylefebvre,<br />
+			<content:encoded><![CDATA[<p>Hi ylefebvre,<br />
 Thank you for your reply,<br />
 I am following the recipes outline in your book, as well as the source codes i downloaded from PACKT.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: ylefebvre</title>
+		
+			</item>
+		<item>
+		<title>
+		By: ylefebvre		</title>
 		<link>/wordpress-plugin-development-cookbook/comment-page-1/#comment-1876</link>
+
 		<dc:creator><![CDATA[ylefebvre]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2013 01:15:13 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=1734#comment-1876</guid>
-		<description><![CDATA[Hi! Thanks for your feedback. I will try to test this out in the next day or two and give you feedback on any corrections that must be applied to the code to get this to work. Actually, as a starting point, you could even send me your current version of the plugin using my contact form on the site so that I won&#039;t be puzzled if the problem is a typo in your code.]]></description>
-		<content:encoded><![CDATA[<p>Hi! Thanks for your feedback. I will try to test this out in the next day or two and give you feedback on any corrections that must be applied to the code to get this to work. Actually, as a starting point, you could even send me your current version of the plugin using my contact form on the site so that I won&#8217;t be puzzled if the problem is a typo in your code.</p>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/wordpress-plugin-development-cookbook/comment-page-1/#comment-1875&quot;&gt;mzer Mike&lt;/a&gt;.
+
+Hi! Thanks for your feedback. I will try to test this out in the next day or two and give you feedback on any corrections that must be applied to the code to get this to work. Actually, as a starting point, you could even send me your current version of the plugin using my contact form on the site so that I won&#039;t be puzzled if the problem is a typo in your code.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/wordpress-plugin-development-cookbook/comment-page-1/#comment-1875">mzer Mike</a>.</p>
+<p>Hi! Thanks for your feedback. I will try to test this out in the next day or two and give you feedback on any corrections that must be applied to the code to get this to work. Actually, as a starting point, you could even send me your current version of the plugin using my contact form on the site so that I won&#8217;t be puzzled if the problem is a typo in your code.</p>
 ]]></content:encoded>
-	</item>
-	<item>
-		<title>By: mzer Mike</title>
+		
+			</item>
+		<item>
+		<title>
+		By: mzer Mike		</title>
 		<link>/wordpress-plugin-development-cookbook/comment-page-1/#comment-1875</link>
+
 		<dc:creator><![CDATA[mzer Mike]]></dc:creator>
 		<pubDate>Thu, 11 Jul 2013 01:10:00 +0000</pubDate>
 		<guid isPermaLink="false">http://yannickcorner.nayanna.biz/?page_id=1734#comment-1875</guid>
-		<description><![CDATA[Hi,
+
+					<description><![CDATA[Hi,
 I bought your book WP Plugin Dev Cookbook, and must say it was awesome.
 
 But i noticed that the star counter code for book rating is not working (it displays 5 grey stars by default, but wont display my own star settings). I spent ten hours today trying to figure out why, but has not got a solution. Perhaps am missing something? Kindly help.
 
 Thanks]]></description>
-		<content:encoded><![CDATA[<p>Hi,<br />
+			<content:encoded><![CDATA[<p>Hi,<br />
 I bought your book WP Plugin Dev Cookbook, and must say it was awesome.</p>
 <p>But i noticed that the star counter code for book rating is not working (it displays 5 grey stars by default, but wont display my own star settings). I spent ten hours today trying to figure out why, but has not got a solution. Perhaps am missing something? Kindly help.</p>
 <p>Thanks</p>
 ]]></content:encoded>
-	</item>
-</channel>
+		
+			</item>
+	</channel>
 </rss>
