@@ -30,97 +30,173 @@
 <link rel="alternate" type="application/rss+xml" title="Yannick&#039;s Corner &raquo; Comments Feed" href="/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Yannick&#039;s Corner &raquo; Bilingual Linker Comments Feed" href="/wordpress-plugins/bilingual-linker/feed/">
 
-<!-- This site uses the Google Analytics by MonsterInsights plugin v7.4.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.4.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 
 
-<script type="text/javascript" data-cfasync="false">
-	var mi_version         = '7.4.2';
-	var mi_track_user      = true;
-	var mi_no_track_reason = '';
+
+<script type="text/javascript" data-cfasync="false">
+
+	var mi_version         = '7.4.2';
+
+	var mi_track_user      = true;
+
+	var mi_no_track_reason = '';
+
 	
-
 
-	var disableStr = 'ga-disable-UA-3506751-1';
-
-	/* Function to detect opted out users */
-	function __gaTrackerIsOptedOut() {
-		return document.cookie.indexOf(disableStr + '=true') > -1;
-	}
-
-	/* Disable tracking if the opt-out cookie exists. */
-	if ( __gaTrackerIsOptedOut() ) {
-		window[disableStr] = true;
-	}
-
-	/* Opt-out function */
-	function __gaTrackerOptout() {
-	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-	  window[disableStr] = true;
-	}
+
+
+	var disableStr = 'ga-disable-UA-3506751-1';
+
+
+
+	/* Function to detect opted out users */
+
+	function __gaTrackerIsOptedOut() {
+
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+
+	}
+
+
+
+	/* Disable tracking if the opt-out cookie exists. */
+
+	if ( __gaTrackerIsOptedOut() ) {
+
+		window[disableStr] = true;
+
+	}
+
+
+
+	/* Opt-out function */
+
+	function __gaTrackerOptout() {
+
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+
+	  window[disableStr] = true;
+
+	}
+
 	
-
-	if ( mi_track_user ) {
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
-
+
+
+	if ( mi_track_user ) {
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+
+
 		__gaTracker('create', 'UA-3506751-1', 'auto');
 		__gaTracker('set', 'forceSSL', true);
 		__gaTracker('require', 'displayfeatures');
 		__gaTracker('require', 'linkid', 'linkid.js');
 		__gaTracker('send','pageview');
 
-	} else {
+	} else {
 
-		console.log( "" );
-		(function() {
-			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
-			var noopfn = function() {
-				return null;
-			};
-			var noopnullfn = function() {
-				return null;
-			};
-			var Tracker = function() {
-				return null;
-			};
-			var p = Tracker.prototype;
-			p.get = noopfn;
-			p.set = noopfn;
-			p.send = noopfn;
-			var __gaTracker = function() {
-				var len = arguments.length;
-				if ( len === 0 ) {
-					return;
-				}
-				var f = arguments[len-1];
-				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
-					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
-					return;
-				}
-				try {
-					f.hitCallback();
-				} catch (ex) {
-
-				}
-			};
-			__gaTracker.create = function() {
-				return new Tracker();
-			};
-			__gaTracker.getByName = noopnullfn;
-			__gaTracker.getAll = function() {
-				return [];
-			};
-			__gaTracker.remove = noopfn;
-			window['__gaTracker'] = __gaTracker;
+
+		console.log( "" );
+
+		(function() {
+
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+
+			var noopfn = function() {
+
+				return null;
+
+			};
+
+			var noopnullfn = function() {
+
+				return null;
+
+			};
+
+			var Tracker = function() {
+
+				return null;
+
+			};
+
+			var p = Tracker.prototype;
+
+			p.get = noopfn;
+
+			p.set = noopfn;
+
+			p.send = noopfn;
+
+			var __gaTracker = function() {
+
+				var len = arguments.length;
+
+				if ( len === 0 ) {
+
+					return;
+
+				}
+
+				var f = arguments[len-1];
+
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+
+					return;
+
+				}
+
+				try {
+
+					f.hitCallback();
+
+				} catch (ex) {
+
+
+
+				}
+
+			};
+
+			__gaTracker.create = function() {
+
+				return new Tracker();
+
+			};
+
+			__gaTracker.getByName = noopnullfn;
+
+			__gaTracker.getAll = function() {
+
+				return [];
+
+			};
+
+			__gaTracker.remove = noopfn;
+
+			window['__gaTracker'] = __gaTracker;
+
 			
-		})();
-	
-	}
-</script>
+		})();
 
-<!-- / Google Analytics by MonsterInsights -->
+	
+	}
+
+</script>
+
+
+<!-- / Google Analytics by MonsterInsights -->
+
 <link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=34631054d2f05afd8971e2b41197c793" type="text/css" media="all">
 <link rel="stylesheet" id="thumbs_rating_styles-css" href="/wp-content/plugins/link-library/upvote-downvote/css/style.css?ver=1.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="page-list-style-css" href="/wp-content/plugins/page-list/css/page-list.css?ver=5.1" type="text/css" media="all">
@@ -360,10 +436,14 @@ var thumbs_rating_ajax = {"ajax_url":"https:\/\/ylefebvre.ca\/wp-admin\/admin-aj
       <div class="nav-wrap container">
                   <ul class="nav container-inner group mobile-search">
                             <li>
-                  <form method="get" class="searchform themeform" action="/">
-	<div>
-		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" value="To search type and hit enter">
-	</div>
+                  <form method="get" class="searchform themeform" action="/">
+
+	<div>
+
+		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" value="To search type and hit enter">
+
+	</div>
+
 </form>                </li>
                       </ul>
                 <ul id="menu-topbar-menu" class="nav container-inner group">
@@ -386,10 +466,14 @@ var thumbs_rating_ajax = {"ajax_url":"https:\/\/ylefebvre.ca\/wp-admin\/admin-aj
       <div class="container-inner">
         <div class="toggle-search"><i class="fas fa-search"></i></div>
         <div class="search-expand">
-          <div class="search-expand-inner"><form method="get" class="searchform themeform" action="/">
-	<div>
-		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" value="To search type and hit enter">
-	</div>
+          <div class="search-expand-inner"><form method="get" class="searchform themeform" action="/">
+
+	<div>
+
+		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" value="To search type and hit enter">
+
+	</div>
+
 </form></div>
         </div>
       </div>
@@ -464,7 +548,7 @@ var thumbs_rating_ajax = {"ajax_url":"https:\/\/ylefebvre.ca\/wp-admin\/admin-aj
 <div id="donations">
 <p><strong>Donations</strong></p>
 <p>If you find this plugin useful, please donate to help support its development, bug fixes and user support. Feel free to modify the amount from the default that is shown on the form after you click through.</p>
-<p><a href="https://www.paypal.me/ylefebvre/10USD"><img loading="lazy" class="alignleft size-full wp-image-6591" src="/wp-content/uploads/2021/02/button_donate-via-paypal-modify-amount-as-desired.png" alt="" width="490" height="44" srcset="/wp-content/uploads/2021/02/button_donate-via-paypal-modify-amount-as-desired.png 490w, /wp-content/uploads/2021/02/button_donate-via-paypal-modify-amount-as-desired-300x27.png 300w" sizes="(max-width: 490px) 100vw, 490px"></a></p>
+<p><a href="https://www.paypal.me/ylefebvre"><img loading="lazy" class="alignleft size-full wp-image-6591" src="/wp-content/uploads/2021/02/button_donate-via-paypal-modify-amount-as-desired.png" alt="" width="490" height="44" srcset="/wp-content/uploads/2021/02/button_donate-via-paypal-modify-amount-as-desired.png 490w, /wp-content/uploads/2021/02/button_donate-via-paypal-modify-amount-as-desired-300x27.png 300w" sizes="(max-width: 490px) 100vw, 490px"></a></p>
 <p><!-- wp_paypal_payment --></p>
 </div>
 					<div class="clear"></div>
